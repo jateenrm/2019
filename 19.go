@@ -7,5 +7,5 @@ func main() {
     for sum < 1000 {
         sum += sum
     }
-    fmt.Println
+    fmt.Println(sum)
 }
